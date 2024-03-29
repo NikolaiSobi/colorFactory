@@ -1,0 +1,17 @@
+.text {
+    color: white;
+    -webkit-text-stroke: 1px black;
+}
+
+.link {
+    color: white;
+    -webkit-text-stroke: .5px black;
+    font-weight: 500;
+    font-size: 30px;
+    text-decoration: underline white;
+}
+
+.colorDiv {
+    height: 100vh;
+    margin-top: -22px;
+}
